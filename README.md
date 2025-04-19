@@ -25,10 +25,10 @@ A simple and fun sliding puzzle game built with Flutter! Rearrange the tiles to 
 To run this project locally:
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/sliding_puzzle.git
-   cd sliding_puzzle
-
+```bash
+git clone https://github.com/your-username/sliding_puzzle.git
+cd sliding_puzzle
+```
 2. **Install dependencies**
 ```bash
 flutter pub get
