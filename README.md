@@ -32,3 +32,7 @@ To run this project locally:
 2. **Install dependencies**
 ```bash
 flutter pub get
+
+3. **Run the app**
+```bash
+flutter run
