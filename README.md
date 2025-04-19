@@ -28,3 +28,7 @@ To run this project locally:
    ```bash
    git clone https://github.com/your-username/sliding_puzzle.git
    cd sliding_puzzle
+
+2. **Install dependencies**
+```bash
+flutter pub get
